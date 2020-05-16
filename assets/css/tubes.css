@@ -1,0 +1,28 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+    background:url('../image/asd.png');
+    background-size: cover;
+    background-attachment:fixed;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.navbar-brand
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.tengah
+{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.tes
+{
+    color:white;
+}
